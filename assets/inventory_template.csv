@@ -1,0 +1,3 @@
+name,category,manufacturer,model,quantity,condition,location,tags,notes,status,projects
+ESP32 development board,Embedded,Espressif,ESP32-WROOM-32,1,Unknown,Drawer 1 / Box A,"wifi; microcontroller",Confirm exact module marking,Needs identification,Embedded Wi-Fi monitor
+Ethernet cable,Cables & adapters,,"Cat6? blue",3,Unknown,Drawer 2 / Cable bin,"ethernet; networking",Verify category printed on jacket,Needs identification,BenchVault
